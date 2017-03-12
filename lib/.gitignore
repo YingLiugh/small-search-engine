@@ -1,0 +1,12 @@
+# Object files and libraries
+*.o
+*.a
+
+# crawler executable
+crawler
+
+# crawler data directory
+data
+
+
+cs50ds.a

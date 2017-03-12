@@ -1,0 +1,9 @@
+# Object files and libraries
+*.o
+*.a
+
+
+
+# crawler data directory
+data
+
